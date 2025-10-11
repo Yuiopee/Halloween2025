@@ -38,479 +38,265 @@ Hallooween 2025
 	-	36º El mono;
 	-	37º The Passenger;
 	-	38º UNTIL DAWN;
-	-	39º 
-	-	40º
-	-	41º
-	-	42º
-	-	43º
-	-	44º
-	-	45º
-	-	46º
-	-	47º
-	-	48º
-	-	49º
-	-	50º
-	-	51º
-	-	52º
-	-	53º
-	-	54º
-	-	55º
-	-	56º
-	-	57º
-	-	58º
-	-	59º
-	-	60º
-	-	61º
-	-	62º
-	-	63º
-	-	64º
-	-	65º
-	-	66º
-	-	67º
-	-	68º
-	-	69º
-	-	70º
-	-	71º
-	-	72º
-	-	73º
-	-	74º
-	-	75º
-	-	76º
-	-	77º
-	-	78º
-	-	79º
-	-	80º
+	-   39º M3GAN 2.0;
+	-   40º The Rule of Jenny Pen;
+	-   41º Los pecadores;
+	-   42º Expediente Warren: El último rito;
+	-   43º Weapons;
+	-   44º Together;
+	-   45º Dangerous Animals;
+	-   46º Tiburón blanco: La bestia del mar;
+	-   47º La hermanastra fea;
+	-   48º Primitive War;
+	-   49º Los sudarios;
+	-   50º Drácula;
+	-   51º Alpha;
+	-   52º Black Phone 2;
+	-   53º Hallow Road;
+	-   54º Baskett Case Trilogía;
+
+	Refinado:
+
+		Hallooween 2025
+
+	-	1º Marshmallow;
+	-	2º Bring Her Back;
+	-	3º Woman of the Hour;
+	-	4º CACERIA SANGRIENTA;
+	-	5º LO QUE HAY DENTRO;
+	-	6º The Artifice Girl;
+	-	7º YOUR MONSTER;
+	-	8º Attachment;
+	-	9º The Soul Eater;
+	-	10º Dog Soldiers;
+	-	11º BRIGHTWOOD;
+	-	12º Christmas Bloody Christmas;
+	-	13º Schlitter;
+	-	14º Heretic;
+	-	15º Werewolves;
+	-	16º Wolf Man;
+	-	17º GRAFTED;
+	-	18º The Damned;
+	-	19º Its Name Was Mormo;
+	-	20º Life of Belle;
+	-	21º Heart Eyes;
+	-	22º PRESENCE;
+	-	23º COMPANION;
+	-	24º El mono;
+	-	25º The Passenger;
+	-	26º UNTIL DAWN;
+	-   27º Los pecadores;
+	-   28º Expediente Warren: El último rito;
+	-   29º Weapons;
+	-   30º Together;
+	-   31º Dangerous Animals;
+	-   32º Tiburón blanco: La bestia del mar;
+	-   33º La hermanastra fea;
+	-   34º Primitive War;
+	-   35º Alpha;
+	-   36º Black Phone 2;
+	-   37º Hallow Road;
+	-   38º Baskett Case 1;
+	-   39º Baskett Case 2;
+	-   40º Baskett Case 3;
+	
+	
 	Nuevo Blog de Horror:
-	-	81º Acide;
-	-	82 THE BLACKWELL GHOST 8;
-	-	83 Lovely, Dark, And Deep;
-	-	84 Starve Acre;
-	-	85 Nunca me Encontraras;
-	-	86 Sting - Araña Asesina;
-	-	87 Hnadling The Undead;
-	-	88 Night Shift;
-	-	89 LowLifes;
-	-	90 Jailangkung: Sandekala;
-	-	91 The Inheritance;
-	-	92 Kill List;
-	-	93 El Baño del Diablo;
-	-	94 Los Chicos del Maíz;
-	-	95 Sewu Dino;
-	-	96 El exorcismo de Georgetown;
-	-	97 Arcadian;
-	-	98 In a Violent Nature;
-	-	99 LA TOUR – Lockdown Tower;
-	-	100 Nightwatch: Demons Are Forever;
-	-	101 Baghead;
-	-	102 Mothers Instinct;
-	-	103 Hell Hole;
-	-	104 SHOck;
-	-	105 The Vourdalak;
-	-	106 MONOLITH;
-	-	107 Exhuma;
-	-	108 Dancing Village: The Curse Begins;
-	-	109 ODDITY;
-	-	110 The Goat and Her Three Kids;
-	-	111 Gueules Noires;
-	-	112 Hell House LLC Origins: The Carmichael Manor;
-	-	113 Kill – Masacre en el tren;
-	-	114 The King Tide;
-	-	115 The Sleeping Woman;
-	-	116 THE FUNERAL;
-	-	117 Devil Inside;
-	-	118 Amelias Children – Herencia Siniestra;
-	-	119 The Beast Within;
-	-	120 Siksa Neraka;
-	-	121 Malditas;
-	-	122 Sin tiempo;
-	-	123 The Deliverance;
-	-	124 Mother, May I?;
-	-	125 BODY PARTS;
-	-	126 LAST STRAW;
-	-	127 The Last Breath;
-	-	128 Subservience;
-	-	129 Siksa Kubur;
-	-	130 Cuckoo;
-	-	131 El mal no duerme (Sleep);
-	-	132 AFRAID;
-	-	133 PROJECT SILENCE;
-	-	134 VEN Y MIRA;
-	-	135 THE DEMON DISORDER;
-	-	136 DREAM SCENARIO;
-	-	137 El vientre del mal;
-	-	138 DELIVERANCE;
-	-	139 AZRAEL;
-	-	140 VHS BEYOND;
-	-	141 El hoyo 2;
-	-	142 SALEMS LOT;
-	-	143 Hold Your Breath;
-	-	144 Strange Darling;
-	-	145 The Wasp;
-	-	146 Do You See What I See;
-	-	147 Dark Harvest;
-	-	148 Apartment 7A;
-	-	149 Amber Alert;
-	-	150 The Front Room;
-	-	151 Achoura ;
-	-	152 Senritsu Kaiki World Kowasugi!;
+	-	Con menos de un 5 para Para Abrir Boca:
 
-Quitando las Seleccionadas en Primera Instancia:
+	- 1º   Cellar Door https://bloghorror.com/2024/11/cellar-door-2024.html https://www.filmaffinity.com/es/film494736.html
+	- 2º   Art of a Hit https://bloghorror.com/2024/11/art-of-a-hit-2024.html https://www.filmaffinity.com/es/film257248.html
+	- 3º   Monster Summer https://bloghorror.com/2024/11/monster-summer-2024.html https://www.filmaffinity.com/es/film502143.html
+	- 4º   THE MOOR https://bloghorror.com/2024/11/the-moor-2024.html https://www.filmaffinity.com/es/film692532.html
+	- 5º   Out of Darkness https://bloghorror.com/2024/11/out-of-darkness-2024.html https://www.filmaffinity.com/es/film386397.html
+	- 6º   Suitable Flesh https://bloghorror.com/2024/11/suitable-flesh-2023.html https://www.filmaffinity.com/es/film881320.html
+	- 7º   Let Us Prey https://bloghorror.com/2015/03/let-us-prey-2015.html https://www.filmaffinity.com/es/film905519.html
+	- 8º   The Well https://bloghorror.com/2024/12/the-well-2023.html https://www.filmaffinity.com/es/film844766.html
+	- 9º   Atrapados en el abismo https://bloghorror.com/2024/12/atrapados-en-el-abismo-2024.html https://www.filmaffinity.com/es/film317392.html
+	- 10º  Dosen Ghaib: It’s Nighttime or You Already Know https://bloghorror.com/2025/01/dosen-ghaib-its-nighttime-or-you-already-know-2024.html https://www.filmaffinity.com/es/film945861.html
+	- 11º  Rescate lunar https://bloghorror.com/2025/02/the-moon-2023.html https://www.filmaffinity.com/es/film171286.html
+	- 12º  Alien Raiders https://bloghorror.com/2025/01/alien-raiders-2008.html https://www.filmaffinity.com/es/film437154.html
+	- 13º  The Sacrifice Game https://bloghorror.com/2025/01/the-sacrifice-game-2023.html https://www.filmaffinity.com/es/film247173.html
+	- 14º  Sin oxígeno https://bloghorror.com/2025/03/last-breath-2025.html https://www.filmaffinity.com/es/film773882.html
+	- 15º  Things Will Be Different https://bloghorror.com/2025/03/things-will-be-different-2024.html https://www.filmaffinity.com/es/film645534.html
+	- 16º  Demon City https://bloghorror.com/2025/03/demon-city-2025.html https://www.filmaffinity.com/es/film885670.html
+	- 17º  Monjas Oscuras https://bloghorror.com/2025/04/monjas-oscuras-2025.html https://www.filmaffinity.com/es/film573265.html
+	- 18º  Peter Pan – Pesadilla en Nunca Jamás https://bloghorror.com/2025/04/peter-pan-pesadilla-en-nunca-jamas-2025.html https://www.filmaffinity.com/es/film953821.html
+	- 19º  Popeye the Slayer Man https://bloghorror.com/2025/04/popeye-the-slayer-man-2025.html https://www.filmaffinity.com/es/film634562.html
+	- 20º  Brick https://bloghorror.com/2025/07/brick-2025.html https://www.filmaffinity.com/es/film525738.html
+	- 21º  Sé lo que hicisteis el último verano https://www.filmaffinity.com/es/film766896.html
+	- 22º  Strangers: Capítulo 2 https://www.filmaffinity.com/es/film278366.html
+	- 23º  Miedo en las profundidades https://www.filmaffinity.com/es/film206825.html
+	- 24º  825 Forest Road https://www.filmaffinity.com/es/film843302.html
+	- 25º  Double Blind;
+	- 26º  Cryptids;
+	- 27º  La Maldición de Crom;
+	- 28º  Year 10;
+	- 29º  Expediente Warren 2;
+	- 30º  Expediente Warren 3;
+	- 31º  Expediente Warren 4;
+	- 32º  Black Phone 1;
+	- 32º  The Rule of Jenny Pen;
+	- 33º  Drácula;
+	- 34º  Los sudarios;
+	- 35º  M3GAN 2.0;
+	- 36º  Street Trash: Violencia en Manhattan;
+	- 37º  Street Trash;
+	- 38º  Blood on Her Name (Conciencia culpable);
+	- 39º  Out Come the Wolves;
+	- 40º  For Night Will Come;
+	- 41º  BAD GENIUS;
+	- 42º  Get Away;
+	- 43º  Saloum;
+	
 
-	-	3º Vive Dentro;
-	-	7º Demon;
-	-	13º Dream Scenario;
-	-	16º Night of The Demnos 1;
-	-	17º Night Of the Demons 2;
-	-	18º Night Of the Demons 3;
-	-	22º Amusement;
-	-	25º The Cellar door;
-	-	28º La Matanza de Texas;
-	-	29º La Matanza de Texas 2;
-	-	30º La Matanza de Texas 3;
-	-	31º La Matanza de Texas La Nueva Generación;
-	-	32º LeatherFace;
-	-	33º La Matanza de Texas 2022;
-	-	34º La Matanza de Texas 3D;
-	-	35º La Matanza de Texas 2003;
-	-	45º La Piscina;
-	-	46º La Maldición del Queen Mary;
-	-	50º Horro Park;
-	-	54º Los Extraños Capitulo 1;
-	-	55º Imaginary;
-	-	57º No Hables con Extraños;
-	-	59º My Little Eye;
-	-	60º BagHead;
-	-	61º El Cuervo;
-	-	64º They Listen;
-	-	65º Juega o Muere;
-	-	66º Tarot;
-	-	67º The Rule Of Three;
-	-	69º Expediente Warren 4;
-	-	71º Out Of Darkness;
-	-	76º The Moor;
-	-	77º Secta;
-	-	78º Saw 11;
-	-	79º The Front Room;
-	Nuevo Blog de Horror:
-	-	81º Acide;
-	-	83 Lovely, Dark, And Deep;
-	-	90 Jailangkung: Sandekala;
-	-	91 The Inheritance;
-	-	94 Los Chicos del Maíz;
-	-	96 El exorcismo de Georgetown;
-	-	98 In a Violent Nature;
-	-	101 Baghead;
-	-	103 Hell Hole;
-	-	107 Exhuma;
-	-	108 Dancing Village: The Curse Begins;
-	-	115 The Sleeping Woman;
-	-	116 THE FUNERAL;
-	-	117 Devil Inside;
-	-	118 Amelias Children – Herencia Siniestra;
-	-	119 The Beast Within;
-	-	120 Siksa Neraka;
-	-	121 Malditas;
-	-	123 The Deliverance;
-	-	125 BODY PARTS;
-	-	128 Subservience;
-	-	129 Siksa Kubur;
-	-	132 AFRAID;
-	-	133 PROJECT SILENCE;
-	-	135 THE DEMON DISORDER;
-	-	137 El vientre del mal;
-	-	138 DELIVERANCE;
-	-	140 VHS BEYOND;
-	-	141 El hoyo 2;
-	-	143 Hold Your Breath;
-	-	146 Do You See What I See;
-	-	147 Dark Harvest;
-	-	150 The Front Room;
-	-	151 Achoura ;
+	Para Ordenar:
 
+		Hallooween 2025
 
-Con más de un 5:
-
-
--	1º Abigail;
--	2º Un lugar tranquilo: Día 1;
--	3º Blood de Brad Anderson;
--	4º La Primera Profecía;
--	5º New Life;
--	6º Descansa en paz;
--	7º Grave Torture;
--	8º Tú no eres yo;
--	9º El último late night;
--	10º The Last Stop in Yuma County;
--	11º Dream Scenario;
--	12º Vermin: La plaga;
--	13º Sick of Myself; NO, va a Seleccionadas
--	14º The Devil's Candy;
--	15º La chica de al lado;
--	16º El ente;
--	17º Tideland;
--	18º Bug;
--	19º Ocurrió cerca de su casa;
--	20º Llega de noche;
--	21º Excisión;
--	22º Sissy;
--	23º La casa del diablo;
--	24º Birth/Rebirth;
--	25º Absentia;
--	26º Super Dark Times;
--	27º Splinter;
--	28º Savageland;
--	29º The Eyes of My Mother;
--	30º Los vigilantes;
--	31º La trampa;
--	32º No hables con extraños;
--	33º Immaculate;
--	34º Bitelchús Bitelchús;
--	35º Longlegs;
--	36º MaXXXine;
--	37º De naturaleza violenta;
--	38º Parpadea dos veces;
--	39º Stopmotion;
--	40º Humane;
--	41º Cuckoo;
--	42º El brillo de la televisión;
--	43º La mesita del comedor;
--	44º El llanto;
--	45º The Blackwell Ghost 8;
--	46º Starve Acre;
--	47º You'll Never Find Me;
--	48º Sting. Araña asesina;
--	49º Descansa en paz;
--	50º Lowlifes;
--	51º Kill List;
--	52º El baño del diablo;
--	53º Sewu Dino;
--	54º Arcadian;
--	55º La Tour (Lockdown Tower);
--	56º El vigilante nocturno: Demonios heredados;
--	57º Vidas perfectas;
--	58º The Vourdalak;
--	59º Monolith;
--	60º Exhuma;
--	61º Oddity;
--	62º The Goat and Her Three Kids;
--	63º Oscuridad total;
--	64º Hell House LLC Origins: The Carmichael Manor;
--	65º Kill;
--	66º Con la marea;
--	67º El último aliento;
--	68º Sleep;
--	69º Masacre. Ven y mira;
--	70º Azrael;
--	71º El misterio de Salem's Lot;
--	72º Strange Darling;
--	73º The Wasp;
--	74º Apartment 7A;
--	75º Amber Alert;
--	76º Gone, un viaje que nunca olvidarás;
--	77º ¿Return to Silent Hill?;
--	78º Night Shift;
--	79º SHOck;
--	80º Sin tiempo;
--	81º Mother, May I?;
--	82º Last Straw;
--	83º Senritsu Kaiki World Kowasugi!;
-
-Raro:
-
-	-	1º The Cellar door;
-	-	2º 
-	-	3º 
-	-	4º The Moor;
-	-	5º 
-	-	6º Jailangkung: Sandekala;
-	-	7º 
-	-	8º Dancing Village: The Curse Begins;
-	-	9º The Sleeping Woman;
-	-	10º Siksa Neraka;
-	-	11º 
-	-	12º 
-	-	13º BODY PARTS;
-	-	14º 
-	-	15º DELIVERANCE (o the DELIVERANCE);
-	-	16º Movie Hoarders: From VHS to DVD and Beyond!;
-	-	17º Do You See What I See;
-	-	18º -	8º Nosferatu; (En DSiciembre);
-	-	Heretic (En Noviembre)
-
-Seleccionadas:
-
-	-	1º Abigail;
-	-	2º La Primera Profecía;
-	-	3º El último late night;
-	-	4º Immaculate;
-	-	5º Longlegs;
-	-	6º MaXXXine;
-	-	7º De naturaleza violenta;
-	-	8º The Vourdalak;
-	-	9º Descansa en paz;
-	-	10º Grave Torture;
-	-	11º Vermin: La plaga;
-	-	12º La chica de al lado;
-	-	13º Sissy;
-	-	14º Excisión;
-	-	15º Birth/Rebirth;
-	-	16º Savageland;
-	-	17º The Eyes of My Mother;
-	-	18º No hables con extraños;
-	-	19º Stopmotion;
-	-	20º El brillo de la televisión;
-	-	21º Starve Acre;
-	-	22º Sting. Araña asesina;
-	-	23º You'll Never Find Me;
-	-	24º Lowlifes;
-	-	25º El baño del diablo;
-	-	26º Monolith;
-	-	27º Exhuma;
-	-	28º Oddity;
-	-	29º Hell House LLC Origins: The Carmichael Manor;
-	-	30º Kill;
-	-	31º Sleep;
-	-	32º Strange Darling;
-	-	33º BettleJuice
-	-	34º Bitelchús Bitelchús;
-	-	35º Night of The Demnos 1;
-	-	36º Night Of the Demons 2;
-	-	37º Night Of the Demons 3;
-	-	38º Sick of Myself;
-	-	39º The Substance;
-
-Seleccionadas Menos las Ordenadas:
+	-	1º ;
+	-	2º ;
+	-	3º ;
+	-	4º ;
+	-	5º ;
+	-	6º ;
+	-	7º ;
+	-	8º ;
+	-	9º ;
+	-	10º ;
+	-	11º ;
+	-	12º ;
+	-	13º ;
+	-	14º ;
+	-	15º ;
+	-	16º ;
+	-	17º ;
+	-	18º ;
+	-	19º ;
+	-	20º ;
+	-	21º ;
+	-	22º ;
+	-	23º ;
+	-	24º ;
+	-	25º ;
+	-	26º ;
+	-   27º ;
+	-   28º ;
+	-   29º ;
+	-   30º ;
+	-   31º ;
+	-   32º ;
+	-   33º ;
+	-   34º ;
+	-   35º ;
+	-   36º ;
+	-   37º ;
+	-   38º ;
+	-   39º ;
+	-   40º ;
 
 
 Orden:
 
+	Para Abrir Boca:
+
+		- 29º  Expediente Warren 1 https://www.filmaffinity.com/es/film233180.html; H
+		- 30º  Expediente Warren 2 https://www.filmaffinity.com/es/film854782.html; H
+		- 31º  Expediente Warren 3 https://www.filmaffinity.com/es/film179254.html; H
+		- 32º  Black Phone 1 https://www.filmaffinity.com/es/film386166.html;
+		- 14º  Sin oxígeno https://bloghorror.com/2025/03/last-breath-2025.html https://www.filmaffinity.com/es/film773882.html
+		- 32º  The Rule of Jenny Pen https://www.filmaffinity.com/es/film502224.html;
+		- 38º  Blood on Her Name https://www.filmaffinity.com/es/film781428.html;
+		- 41º  BAD GENIUS https://www.filmaffinity.com/es/film560892.html;
+		- 43º  Saloum https://www.filmaffinity.com/es/film326089.html;
+		- 40º  For Night Will Come https://www.filmaffinity.com/es/film906297.html;
+		- 33º  Drácula https://www.filmaffinity.com/es/film703551.html;
+		- 34º  Los sudarios https://www.filmaffinity.com/es/film957199.html;
+		- 35º  M3GAN 2.0 https://www.filmaffinity.com/es/film951830.html;
+		- 39º  Out Come the Wolves https://www.filmaffinity.com/es/film220274.html;
+		- 15º  Things Will Be Different https://bloghorror.com/2025/03/things-will-be-different-2024.html https://www.filmaffinity.com/es/film645534.html
+		- 22º  Strangers: Capítulo 2 https://www.filmaffinity.com/es/film278366.html
+		- 25º  Double Blind https://www.filmaffinity.com/es/film932647.html;
+		- 36º  Street Trash: Violencia en Manhattan https://www.filmaffinity.com/es/film930547.html;
+		- 37º  Street Trash https://www.filmaffinity.com/es/film701201.html;
+		- 42º  Get Away https://www.filmaffinity.com/es/film786591.html;
+		- 7º   Let Us Prey https://bloghorror.com/2015/03/let-us-prey-2015.html https://www.filmaffinity.com/es/film905519.html
+		- 8º   The Well https://bloghorror.com/2024/12/the-well-2023.html https://www.filmaffinity.com/es/film844766.html
+		- 4º   THE MOOR https://bloghorror.com/2024/11/the-moor-2024.html https://www.filmaffinity.com/es/film692532.html
+		- 5º   Out of Darkness https://bloghorror.com/2024/11/out-of-darkness-2024.html https://www.filmaffinity.com/es/film386397.html
+		- 6º   Suitable Flesh https://bloghorror.com/2024/11/suitable-flesh-2023.html https://www.filmaffinity.com/es/film881320.html
+		- 20º  Brick https://bloghorror.com/2025/07/brick-2025.html https://www.filmaffinity.com/es/film525738.html
+		- 13º  The Sacrifice Game https://bloghorror.com/2025/01/the-sacrifice-game-2023.html https://www.filmaffinity.com/es/film247173.html
+		- 17º  Monjas Oscuras https://bloghorror.com/2025/04/monjas-oscuras-2025.html https://www.filmaffinity.com/es/film573265.html
+		- 16º  Demon City https://bloghorror.com/2025/03/demon-city-2025.html https://www.filmaffinity.com/es/film885670.html
+		- 1º   Cellar Door https://bloghorror.com/2024/11/cellar-door-2024.html https://www.filmaffinity.com/es/film494736.html
+		- 11º  Rescate lunar https://bloghorror.com/2025/02/the-moon-2023.html https://www.filmaffinity.com/es/film171286.html
+		- 28º  Year 10 https://www.filmaffinity.com/es/film726301.html;
+		- 18º  Peter Pan – Pesadilla en Nunca Jamás https://bloghorror.com/2025/04/peter-pan-pesadilla-en-nunca-jamas-2025.html https://www.filmaffinity.com/es/film953821.html
+		- 24º  825 Forest Road https://www.filmaffinity.com/es/film843302.html
+		- 3º   Monster Summer https://bloghorror.com/2024/11/monster-summer-2024.html https://www.filmaffinity.com/es/film502143.html
+		- 12º  Alien Raiders https://bloghorror.com/2025/01/alien-raiders-2008.html https://www.filmaffinity.com/es/film437154.html
+		- 23º  Miedo en las profundidades https://www.filmaffinity.com/es/film206825.html
+		- 21º  Sé lo que hicisteis el último verano https://www.filmaffinity.com/es/film766896.html
+		- 9º   Atrapados en el abismo https://bloghorror.com/2024/12/atrapados-en-el-abismo-2024.html https://www.filmaffinity.com/es/film317392.html
+		- 19º  Popeye the Slayer Man https://bloghorror.com/2025/04/popeye-the-slayer-man-2025.html https://www.filmaffinity.com/es/film634562.html
+		- 26º  Cryptids https://www.filmaffinity.com/es/film217878.html;
+		- 2º   Art of a Hit https://bloghorror.com/2024/11/art-of-a-hit-2024.html https://www.filmaffinity.com/es/film257248.html
+		- 10º  Dosen Ghaib: It’s Nighttime or You Already Know https://bloghorror.com/2025/01/dosen-ghaib-its-nighttime-or-you-already-know-2024.html https://www.filmaffinity.com/es/film945861.html
+		- 27º  La Maldición de Crom https://www.filmaffinity.com/es/film504998.html;
+
 	Miércoles:
 
-		-1º Sleep;
-		-2º De naturaleza violenta;
-		-3º Lowlifes;
-		-4º Oddity;
-		-5º Savageland;
-		-6º The Vourdalak;
-		-7º Immaculate;
-		-8º Abigail;
+		- Baskett Case 1;
+		- Its Name Was Mormo;
+		- Attachment;
+		- UNTIL DAWN;
+		- BRIGHTWOOD;
+		- The Passenger;
+		- El mono;
+		- COMPANION;
 
 	Jueves:
 
-		-1º Descansa en paz;
-		-2º Starve Acre;
-		-3º Night of The Demnos 1;
-		-4º The Eyes of My Mother;
-		-5º The Goat and Her Three Kids;
-		-6º El baño del diablo;
-		-7º Grave Torture;
-		-8º La Primera Profecía;
+		- Baskett Case 2;
+		- Dangerous Animals;
+		- Tiburón blanco: La bestia del mar;
+		- Primitive War;
+		- Schlitter;
+		- The Soul Eater;
+		- Heretic;
+		- Expediente Warren: El último rito;
+
 	
 	Viernes:
 
-		-1º Vermin: La plaga;
-		-2º Sting. Araña asesina;
-		-3º Night Of the Demons 2;
-		-4º Stopmotion;
-		-5º Birth/Rebirth;
-		-6º Excisión;
-		-7º Sick of Myself;
-		-8º The Substance;
+		- YOUR MONSTER;
+		- Dog Soldiers;
+		- Werewolves;
+		- Heart Eyes;
+		- GRAFTED;
+		- Hallow Road;
+		- Wolf Man;
+		- Los pecadores;
 
 	Sábado:
 
-		-1º Kill;
-		-2º La chica de al lado;
-		-3º Night Of the Demons 3;
-		-4º Mother, May I?;
-		-5º Monolith;
-		-6º You'll Never Find Me;
-		-7º Sissy;
-		-8º No hables con extraños;
-		-9º El último late night;
+		- Baskett Case 3;
+		- LO QUE HAY DENTRO;
+		- Christmas Bloody Christmas;
+		- The Artifice Girl;
+		- Together;
+		- Black Phone 2;
+		- Weapons;
+		- Life of Belle;
 
 	Domingo:
 
-		-1º Oddity;
-		-2º El brillo de la televisión;
-		-3º BettleJuice;
-		-4º Bitelchús Bitelchús;
-		-5º Exhuma;
-		-6º Hell House LLC Origins: The Carmichael Manor;
-		-7º Strange Darling;
-		-8º MaXXXine;
-		-9º Longlegs;
-
-
-Para Abrir Boca:
-
-	-	1º Blood de Brad Anderson;
-	-	2º New Life;
-	-	3º Tú no eres yo;
-	-	4º Sick of Myself;
-	-	5º Tideland;
-	-	6º Llega de noche;
-	-	7º La casa del diablo;
-	-	8º Super Dark Times;
-	-	9º Los vigilantes;
-	-	10º La trampa;
-	-	11º Humane;
-	-	12º Cuckoo;
-	-	13º La mesita del comedor;
-	-	14º El llanto;
-	-	15º Kill List;
-	-	16º Sewu Dino;
-	-	17º La Tour (Lockdown Tower);
-	-	18º El vigilante nocturno: Demonios heredados;
-	-	19º The Goat and Her Three Kids;
-	-	20º Oscuridad total;
-	-	21º Con la marea;
-	-	22º El último aliento;
-	-	23º Azrael;
-	-	24º El misterio de Salem's Lot;
-	-	25º The Wasp;
-	-	26º Night Shift;
-	-	27º Mother, May I?;
-	-	28º Last Straw;
-	-	29º Senritsu Kaiki World Kowasugi!;
-	-	30º La Piscina;
-	-	31º Horror Park;
-	-	32º Los Extraños Capitulo 1;
-	-	33º Imaginary;
-	-	34º BagHead;
-	-	35º Diabólica;
-	-	36º Tarot;
-	-	37º Out Of Darkness;
-	-	38º Acide;
-	-	39º Lovely, Dark, And Deep;
-	-	40º The Deliverance;
-	-	41º Alice (Subservience);
-	-	42º PROJECT SILENCE;
-	-	43º Hold Your Breath;
-	-	44º 
-	-	45º 
-
-Preseleccionadas Quitando las Seleccionadas:
-
-
--	1º 
--	2º Un lugar tranquilo: Día 1;
--	10º The Last Stop in Yuma County;
--	11º Dream Scenario;
--	14º The Devil's Candy;
--	16º El ente;
--	18º Bug;
--	19º Ocurrió cerca de su casa;
--	25º Absentia;
--	27º Splinter;
--	38º Parpadea dos veces;
--	45º The Blackwell Ghost 8;
--	54º Arcadian;
--	57º Vidas perfectas;
--	69º Masacre. Ven y mira;
--	74º Apartment 7A;
--	75º Amber Alert;
--	76º Gone, un viaje que nunca olvidarás;
--	77º ¿Return to Silent Hill?;
--	79º SHOck;
--	80º Sin tiempo;
+		- Marshmallow;
+		- The Damned;
+		- CACERIA SANGRIENTA;
+		- Alpha;
+		- La hermanastra fea;
+		- Woman of the Hour;
+		- PRESENCE;
+		- Bring Her Back
