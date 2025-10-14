@@ -230,73 +230,73 @@ Orden:
 		- 28º  H Monjas Oscuras https://bloghorror.com/2025/04/monjas-oscuras-2025.html https://www.filmaffinity.com/es/film573265.html
 		- 29º  H Demon City https://bloghorror.com/2025/03/demon-city-2025.html https://www.filmaffinity.com/es/film885670.html
 		- 30º  H Cellar Door https://bloghorror.com/2024/11/cellar-door-2024.html https://www.filmaffinity.com/es/film494736.html
-		- 31º  Rescate lunar https://bloghorror.com/2025/02/the-moon-2023.html https://www.filmaffinity.com/es/film171286.html
-		- 32º  Year 10 https://www.filmaffinity.com/es/film726301.html;
-		- 33º  Peter Pan – Pesadilla en Nunca Jamás https://bloghorror.com/2025/04/peter-pan-pesadilla-en-nunca-jamas-2025.html https://www.filmaffinity.com/es/film953821.html
-		- 34º  825 Forest Road https://www.filmaffinity.com/es/film843302.html
-		- 35º   Monster Summer https://bloghorror.com/2024/11/monster-summer-2024.html https://www.filmaffinity.com/es/film502143.html
-		- 36º  Alien Raiders https://bloghorror.com/2025/01/alien-raiders-2008.html https://www.filmaffinity.com/es/film437154.html
-		- 37º  Miedo en las profundidades https://www.filmaffinity.com/es/film206825.html
-		- 38º  Sé lo que hicisteis el último verano https://www.filmaffinity.com/es/film766896.html
-		- 39º   Atrapados en el abismo https://bloghorror.com/2024/12/atrapados-en-el-abismo-2024.html https://www.filmaffinity.com/es/film317392.html
-		- 40º  Popeye the Slayer Man https://bloghorror.com/2025/04/popeye-the-slayer-man-2025.html https://www.filmaffinity.com/es/film634562.html
-		- 41º  Cryptids https://www.filmaffinity.com/es/film217878.html;
-		- 42º   Art of a Hit https://bloghorror.com/2024/11/art-of-a-hit-2024.html https://www.filmaffinity.com/es/film257248.html
-		- 43º  Dosen Ghaib: It’s Nighttime or You Already Know https://bloghorror.com/2025/01/dosen-ghaib-its-nighttime-or-you-already-know-2024.html https://www.filmaffinity.com/es/film945861.html
-		- 44º  La Maldición de Crom https://www.filmaffinity.com/es/film504998.html;
+		- 31º  H Rescate lunar https://bloghorror.com/2025/02/the-moon-2023.html https://www.filmaffinity.com/es/film171286.html
+		- 32º  H Year 10 https://www.filmaffinity.com/es/film726301.html;
+		- 33º  H Peter Pan – Pesadilla en Nunca Jamás https://bloghorror.com/2025/04/peter-pan-pesadilla-en-nunca-jamas-2025.html https://www.filmaffinity.com/es/film953821.html
+		// - 34º  825 Forest Road https://www.filmaffinity.com/es/film843302.html
+		- 35º  H Monster Summer https://bloghorror.com/2024/11/monster-summer-2024.html https://www.filmaffinity.com/es/film502143.html
+		- 36º  H Alien Raiders https://bloghorror.com/2025/01/alien-raiders-2008.html https://www.filmaffinity.com/es/film437154.html
+		- 37º  H Miedo en las profundidades https://www.filmaffinity.com/es/film206825.html
+		- 38º  H Sé lo que hicisteis el último verano https://www.filmaffinity.com/es/film766896.html
+		- 39º  H Atrapados en el abismo https://bloghorror.com/2024/12/atrapados-en-el-abismo-2024.html https://www.filmaffinity.com/es/film317392.html
+		- 40º  H Popeye the Slayer Man https://bloghorror.com/2025/04/popeye-the-slayer-man-2025.html https://www.filmaffinity.com/es/film634562.html
+		- 41º  H Cryptids https://www.filmaffinity.com/es/film217878.html;
+		- 42º  H Art of a Hit https://bloghorror.com/2024/11/art-of-a-hit-2024.html https://www.filmaffinity.com/es/film257248.html
+		// - 43º  Dosen Ghaib: It’s Nighttime or You Already Know https://bloghorror.com/2025/01/dosen-ghaib-its-nighttime-or-you-already-know-2024.html https://www.filmaffinity.com/es/film945861.html
+		// - 44º  La Maldición de Crom https://www.filmaffinity.com/es/film504998.html;
 
 	Miércoles:
 
-		- Baskett Case 1;
-		- Its Name Was Mormo;
-		- Attachment;
-		- UNTIL DAWN;
-		- BRIGHTWOOD;
-		- The Passenger;
-		- El mono;
-		- COMPANION;
+		- H Basket Case 1 https://bloghorror.com/2018/11/basket-case-1982.html https://www.filmaffinity.com/es/film671772.html;
+		- H Its Name Was Mormo https://bloghorror.com/2025/01/its-name-was-mormo-2024.html https://www.filmaffinity.com/es/film502620.html;
+		- H Attachment https://bloghorror.com/2024/11/attachment-2022.html https://www.filmaffinity.com/es/film863537.html;
+		- H The Passenger https://bloghorror.com/2025/03/the-passenger-2023.html https://www.filmaffinity.com/es/film770939.html;
+		- BRIGHTWOOD https://bloghorror.com/2024/12/brightwood-2024.html https://www.filmaffinity.com/es/film840643.html;
+		- UNTIL DAWN https://bloghorror.com/2025/05/until-dawn-2025.html https://www.filmaffinity.com/es/film579097.html;
+		- El mono https://bloghorror.com/2025/03/el-mono-2025.html https://www.filmaffinity.com/es/film247371.html;
+		- COMPANION https://bloghorror.com/2025/02/companion-2025.html https://www.filmaffinity.com/es/film796514.html;
 
 	Jueves:
 
-		- Baskett Case 2;
-		- Dangerous Animals;
-		- Tiburón blanco: La bestia del mar;
-		- Primitive War;
-		- Schlitter;
-		- The Soul Eater;
-		- Heretic;
-		- Expediente Warren: El último rito;
+		- H Basket Case 2 https://www.filmaffinity.com/es/film208032.html;
+		- Dangerous Animals https://www.filmaffinity.com/es/film354662.html;
+		- Tiburón blanco: La bestia del mar https://www.filmaffinity.com/es/film319058.html;
+		- Primitive War https://www.filmaffinity.com/es/film121132.html;
+		- Schlitter https://bloghorror.com/2024/12/schlitter-2024.html https://www.filmaffinity.com/es/film467985.html;
+		- The Soul Eater https://bloghorror.com/2024/11/the-soul-eater-2024.html https://www.filmaffinity.com/es/film137341.html;
+		- Heretic https://bloghorror.com/2024/12/heretic-2024.html https://www.filmaffinity.com/es/film744837.html;
+		- Expediente Warren: El último rito https://www.filmaffinity.com/es/film268707.html;
 
 	
 	Viernes:
 
-		- YOUR MONSTER;
-		- Dog Soldiers;
-		- Werewolves;
-		- Heart Eyes;
-		- GRAFTED;
-		- Hallow Road;
-		- Wolf Man;
-		- Los pecadores;
+		- YOUR MONSTER https://bloghorror.com/2024/11/your-monster-2024.html https://www.filmaffinity.com/es/film284233.html;
+		- Dog Soldiers https://bloghorror.com/2009/10/dog-soldiers-2002.html https://www.filmaffinity.com/es/film110755.html;
+		- Werewolves https://bloghorror.com/2024/12/werewolves-2024.html https://www.filmaffinity.com/es/film875056.html;
+		- Heart Eyes https://bloghorror.com/2025/03/heart-eyes-2025.html https://www.filmaffinity.com/es/film748856.html;
+		- GRAFTED https://bloghorror.com/2025/01/grafted-2024.html https://www.filmaffinity.com/es/film349338.html;
+		- Hallow Road https://www.filmaffinity.com/es/film836782.html;
+		- Wolf Man https://bloghorror.com/2025/02/wolf-man-2025.html https://www.filmaffinity.com/es/film581659.html;
+		- Los pecadores https://www.filmaffinity.com/es/film699169.html;
 
 	Sábado:
 
-		- Baskett Case 3;
-		- LO QUE HAY DENTRO;
-		- Christmas Bloody Christmas;
-		- The Artifice Girl;
-		- Together;
-		- Black Phone 2;
-		- Weapons;
-		- Life of Belle;
+		- H Basket Case 3 https://www.filmaffinity.com/es/film892193.html;
+		- LO QUE HAY DENTRO https://bloghorror.com/2024/10/lo-que-hay-dentro-2024.html https://www.filmaffinity.com/es/film148922.html;
+		- Christmas Bloody Christmas https://bloghorror.com/2022/12/christmas-bloody-christmas-2022.html https://www.filmaffinity.com/es/film316470.html;
+		- The Artifice Girl https://bloghorror.com/2024/11/the-artifice-girl-2022.html https://www.filmaffinity.com/es/film291880.html;
+		- Together https://www.filmaffinity.com/es/film781511.html;
+		- Black Phone 2 https://www.filmaffinity.com/es/film675776.html;
+		- Weapons https://www.filmaffinity.com/es/film809089.html;
+		- Life of Belle https://bloghorror.com/2025/01/life-of-belle-2025.html https://www.filmaffinity.com/es/film142895.html;
 
 	Domingo:
 
-		- Marshmallow;
-		- The Damned;
-		- CACERIA SANGRIENTA;
-		- Alpha;
-		- La hermanastra fea;
-		- Woman of the Hour;
-		- PRESENCE;
-		- Bring Her Back
+		- Marshmallow https://bloghorror.com/2025/07/marshmallow-2025.html https://www.filmaffinity.com/es/film462084.html;
+		- The Damned https://bloghorror.com/2025/01/the-damned-2024.html https://www.filmaffinity.com/es/film870200.html;
+		- CACERIA SANGRIENTA https://bloghorror.com/2024/11/caceria-sangrienta-2024.html https://www.filmaffinity.com/es/film865344.html;
+		- Alpha https://www.filmaffinity.com/es/film757877.html;
+		- La hermanastra fea https://www.filmaffinity.com/es/film288125.html;
+		- Woman of the Hour https://bloghorror.com/2024/10/woman-of-the-hour-2024.html https://www.filmaffinity.com/es/film654852.html;
+		- PRESENCE https://bloghorror.com/2025/02/presence-2024.html https://www.filmaffinity.com/es/film376898.html;
+		- Bring Her Back https://bloghorror.com/2025/07/bring-her-back-2025.html https://www.filmaffinity.com/es/film102649.html;
